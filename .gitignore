@@ -7,4 +7,4 @@ db.sqlite3
 /media
 venv
 /static
-*.html linguist-vendored
+*.css linguist-vendored=false
